@@ -3,12 +3,12 @@
 return [
     'queued' => [
         'title' => 'Exportação na fila',
-        'body' => 'A exportação foi colocada na fila. Você será notificado quando estiver pronta para download.',
+        'body' => 'A exportação foi colocada na fila. Será notificado assim que estiver disponível para download.',
     ],
 
     'download_ready' => [
         'title' => 'Exportação concluída',
-        'body' => 'Seu arquivo está pronto para download.',
-        'download' => 'Baixar',
+        'body' => 'O seu ficheiro está pronto para download.',
+        'download' => 'Descarregar',
     ],
 ];
